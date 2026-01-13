@@ -1,6 +1,10 @@
+pygame.init()
+screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
+
 import pygame
 from constants import SCREEN_WIDTH
 from constants import SCREEN_HEIGHT
+from logger import log_state
 
 def main():
     VERSION = pygame.version.ver
