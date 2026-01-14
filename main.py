@@ -16,6 +16,7 @@ def main():
     clock = pygame.time.Clock()
     dt = 0
     
+    Player(x, y)
 
     while True:
         log_state()
