@@ -1,1 +1,2 @@
-This is a project for boots.com study course.
+This is a project for boot.com study course.
+
